@@ -15,7 +15,7 @@
    ```bash
    java -version
 
-### 1. Instalar el JDK
+### 4. Instalar el JDK
 1. Descarga la última versión del JDK desde [este enlace](https://download.oracle.com/java/23/latest/jdk-23_windows-x64_bin.msi).
 2. Para comprobar si está configurado en las variables de entorno, utiliza el siguiente comando:
    ```bash
